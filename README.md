@@ -35,7 +35,7 @@ streamlit run app.py
 | 📈 Explainability    | SHAP (TreeExplainer)                               |
 | 🌐 Web App           | Streamlit                                          |
 | 🧪 Development       | Jupyter Notebook, Git, Python                      |
-| 📦 Deployment Ready  | Streamlit Cloud / Hugging Face Spaces (Optional)  |
+
 
 ---
 
