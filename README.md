@@ -65,7 +65,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## 📸 Output Screenshots
 
 ### 
 <img width="946" alt="Output_1" src="https://github.com/user-attachments/assets/b6b2852c-6dd3-489e-884f-9afec334a05c" />
